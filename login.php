@@ -110,7 +110,7 @@ if(isset($_POST["login"]))
           <div class="col-md-4 mx-auto">
             <div class="login-content ">
               <div class="login-form">
-                <center><img src="./assets/uploadImage/Logo/logo.png" style="width: 70%;"></center><br>
+                <center><img src="./assets/uploadImage/Logo/logo.png" style="width: 50%;"></center><br>
                                 
               <form action="<?php echo $_SERVER['PHP_SELF'] ?>" method="post" id="loginForm" class="row">
                 
